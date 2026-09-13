@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma HTML to UE5 UMG"
+  short_description: "Convert HTML/CSS UI and screenshots into tested UE5 UMG Widgets"
+  default_prompt: "Convert the provided HTML/CSS UI and screenshots into a UE5 UMG Widget implementation, including Blueprint assets, UI-only interaction logic, animations, exported image assets, and validation."
