@@ -169,8 +169,3 @@ For actual WBP generation, the target project should:
 - A successful structural or state check does not replace visual PIE testing in the target project. / 结构或状态检查通过不等于完成目标项目 PIE 视觉验收。
 - Do not commit proprietary UI source, screenshots, fonts, or game assets to a public repository unless their licenses allow redistribution. / 未获许可证允许时，不要将专有源码、截图、字体或游戏资源提交到公开仓库。
 
-## License / 许可证
-
-Add the license you want to use before publishing this repository. If this Skill remains project-specific, keep the repository private and document the permitted users and projects.
-
-公开发布前，请在仓库中加入你选择的许可证。如果该 Skill 只服务于特定项目，请保持仓库私有，并说明允许使用的用户和项目范围。
